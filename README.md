@@ -1,66 +1,43 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
-
+An E-commerce website built with the React.js framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+Check out the live demo of this E-commerce website here: [Demo](https://totalitycorp-frontend-ecommerce.netlify.app/)
 
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
+- Easy Integration with Backend: This project is designed to be easily integrated with a backend server, allowing you to build a complete E-commerce solution.
+- Fully Responsive: The website is fully responsive, ensuring a seamless experience for users on various devices.
 
 ## Run Locally
 
-Clone the project
+To run this project locally, follow these steps:
 
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
+1. Clone the project to your local machine:
 
-Go to the project directory
+   ```bash
+   git clone https://github.com/PrathmeshR/totalitycorp-frontend-challenge.git
+   
+2. Install project dependencies:
 
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+    npm install
 
 
+3. Start the development server:
+
+   npm start
+
+  Now, you can access the website locally by opening your web browser and visiting http://localhost:3000.
 
 ## Tech Stack
+ This project is built using the following technologies:
 
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-
-
+ -React: A JavaScript library for building user interfaces.
+ 
+ -Redux: A state management library for managing the application's global state.
+ 
+ -Bootstrap: A popular front-end framework for responsive web design and complete styling.
+ 
+ -Fake Store API: An API providing mock E-commerce data for testing and development purposes.
