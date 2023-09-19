@@ -2,6 +2,9 @@
 
 An E-commerce website built with the React.js framework.
 
+![Screenshot (25)](https://github.com/PrathmeshR/totalitycorp-frontend-challenge/assets/80195698/121908df-18af-4706-bbe0-d9ed0ba8916c)
+
+
 ## Demo
 
 Check out the live demo of this E-commerce website here: [Demo](https://totalitycorp-frontend-ecommerce.netlify.app/)
